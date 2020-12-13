@@ -1,0 +1,210 @@
+.color1
+{
+ margin: 0 50vw 0;
+ color: white;
+}
+
+.user-menu
+{
+	height: 40px;
+	opacity: 0;
+    visibility: hidden;
+	position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    padding: 8px 0;
+    background-color: #232527;
+	transition: all .3s ease;
+}
+
+.container:hover .user-menu {
+    visibility: visible;
+    opacity: 1;
+    transform: translateY(-5px);
+}
+
+body
+{ 
+width: 100vw;
+margin: 0;
+background: white;
+background-repeat: no-repeat;
+background-size: 100% 100%;
+min-height: 100vh;
+}
+
+.sslka1
+{
+ margin: 0 0 0 2vw;
+ text-decoration: none;
+}
+
+.buk1
+{
+ margin: 0 0 0 11vw;
+ position: absolute;
+}
+
+.imag2
+{
+margin: 10vw 0 15vw 55vw;
+position: absolute;
+}
+
+.bodyimag1
+{
+ margin: 2vw 0 15vw 60vw;
+ position: absolute;
+}
+
+.imag1
+{
+ margin: 0 0 0 10vw;
+}
+
+.adress1
+{
+ margin: -2vw 0 0 56vw;
+}
+
+.block1
+{
+margin: 13vw 0 0 20vw;
+}
+.block2
+{
+margin: 3vw 0 0 20vw;
+}
+
+.userpic
+{
+    height: 5vw;
+ color: white;
+}
+
+.button
+{
+    margin: 4vw 0 0 20vw; 
+    position: absolute;
+}
+
+.arrow
+{
+    margin: 14vw 0 0 53vw; 
+    position: absolute;
+}
+
+.block4
+{
+color: #66CDAA;
+margin: 27vw 0 0 0vw;
+}
+
+.g5
+{
+ color: #66CDAA;
+margin: 24.5vw 0 0   15.5vw;
+position: absolute;
+}
+
+.block5
+{
+margin: 0 0 0 4vw;
+}
+
+.block3
+{
+ width: 100vw;
+ margin: 10vw 0 0 0 ;
+ height: 60vw;
+background: #66CDAA;
+}
+
+.text6
+{
+ margin: 6vw 0 0 37vw;
+  color: white;
+  position: absolute;
+}
+
+.imag3
+{
+ margin: 4vw 0 0 -8vw;
+}
+
+.text7
+{
+  margin: -10vw 0 0 -3vw;  
+}
+
+.imag4
+{
+    margin: 4vw 0 0 35vw;
+}
+
+.text8
+{
+  margin: -10vw 0 0 -18vw;  
+}
+
+.imag5
+{
+ margin: 4vw 0 0 -8vw;
+}
+
+.text9
+{
+  margin: -10vw 0 0 -3vw;  
+}
+
+.imag6
+{
+    margin: 7vw 0 0 18vw;
+}
+
+.imag7
+{
+    margin: 18vw 0 0 69vw;
+}
+
+.zagllast
+{
+    margin: -4.5vw 0 0 35vw;
+}
+
+.text10
+{
+ color: black;
+ margin:0vw 0 0 10vw;
+}
+
+.button1
+{
+    margin:5vw 0 0 43vw;
+}
+
+.podval
+{
+    background: #66CDAA;
+    height: 10vw;
+}
+
+.sslka2
+{
+ margin: 5vw 0 0 2vw;
+ text-decoration: none;
+}
+
+.adress2
+{
+    padding-top: 1vw;
+ margin: 0 0 0 56vw;
+ position: absolute;
+}
+
+.adress3
+{
+ margin-top:10vw;
+}
+
