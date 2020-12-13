@@ -1,7 +1,7 @@
 .color1
 {
- margin: 0 50vw 0;
- color: white;
+    margin: 0 50vw 0;
+    color: white;
 }
 
 .user-menu
@@ -26,61 +26,74 @@
 
 body
 { 
-width: 100vw;
-margin: 0;
-background: white;
-background-repeat: no-repeat;
-background-size: 100% 100%;
-min-height: 100vh;
+    width: 100vw;
+    margin: 0;
+    background: white;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    min-height: 100vh;
 }
 
 .sslka1
 {
- margin: 0 0 0 2vw;
- text-decoration: none;
+    margin: 0 2vw 0 0;
+    color:#66CDAA; font-size:20px; font-weight: lighter;
+    text-decoration: none;
+}
+
+.sslka3
+{
+    margin: 0 2vw 0 0;
+    text-decoration: none;
 }
 
 .buk1
 {
- margin: 0 0 0 11vw;
- position: absolute;
+    margin: 0 0 0 11vw;
+    position: absolute;
 }
 
 .imag2
 {
-margin: 10vw 0 15vw 55vw;
-position: absolute;
+    margin: 10vw 0 15vw 55vw;
+    position: absolute;
 }
 
 .bodyimag1
 {
- margin: 2vw 0 15vw 60vw;
- position: absolute;
+    margin: 2vw 0 15vw 60vw;
+    position: absolute;
 }
 
 .imag1
 {
- margin: 0 0 0 10vw;
+    margin: 0 0 0 10vw;
 }
 
 .adress1
 {
- margin: -2vw 0 0 56vw;
+    margin: -2vw 0 0 56vw;
 }
 
 .block1
 {
-margin: 13vw 0 0 20vw;
+    color:#66CDAA; 
+    font-size:50px; 
+    font-weight: lighter;
+    margin: 13vw 0 0 20vw;
 }
 .block2
 {
-margin: 3vw 0 0 20vw;
+    font-size:15px; 
+    font-weight: lighter;
+    margin: 3vw 0 0 20vw;
 }
 
 .userpic
 {
+    font-size:30px
     height: 5vw;
- color: white;
+    color: white;
 }
 
 .button
@@ -97,8 +110,9 @@ margin: 3vw 0 0 20vw;
 
 .block4
 {
-color: #66CDAA;
-margin: 27vw 0 0 0vw;
+    font-size:27px;
+    color: #66CDAA;
+    margin: 27vw 0 0 0vw;
 }
 
 .g5
@@ -123,19 +137,22 @@ background: #66CDAA;
 
 .text6
 {
- margin: 6vw 0 0 37vw;
-  color: white;
-  position: absolute;
+    font-size: 34px;
+    margin: 6vw 0 0 37vw;
+    color: white;
+    position: absolute;
 }
 
 .imag3
 {
- margin: 4vw 0 0 -8vw;
+    margin: 4vw 0 0 -8vw;
 }
 
 .text7
 {
-  margin: -10vw 0 0 -3vw;  
+    font-size:17px; 
+    font-weight: 50;
+    margin: -10vw 0 0 -3vw;  
 }
 
 .imag4
@@ -145,17 +162,21 @@ background: #66CDAA;
 
 .text8
 {
-  margin: -10vw 0 0 -18vw;  
+    font-size:17px; 
+    font-weight: 50;
+    margin: -10vw 0 0 -18vw;  
 }
 
 .imag5
 {
- margin: 4vw 0 0 -8vw;
+    margin: 4vw 0 0 -8vw;
 }
 
 .text9
 {
-  margin: -10vw 0 0 -3vw;  
+    font-size:17px; 
+    font-weight: 50;
+    margin: -10vw 0 0 -3vw;  
 }
 
 .imag6
@@ -170,13 +191,18 @@ background: #66CDAA;
 
 .zagllast
 {
+    color:#66CDAA; 
+    font-size:50px; 
+    font-weight: lighter;
     margin: -4.5vw 0 0 35vw;
 }
 
 .text10
 {
- color: black;
- margin:0vw 0 0 10vw;
+    font-size:22px; 
+    font-weight: 300;
+    color: black;
+    margin:0vw 0 0 10vw;
 }
 
 .button1
@@ -192,19 +218,34 @@ background: #66CDAA;
 
 .sslka2
 {
- margin: 5vw 0 0 2vw;
- text-decoration: none;
+    font-size:20px;
+    color: white; 
+    font-weight: lighter;
+    margin: 5vw 0 0 2vw;
+    text-decoration: none;
 }
 
 .adress2
 {
     padding-top: 1vw;
- margin: 0 0 0 56vw;
- position: absolute;
+    margin: 0 0 0 56vw;
+    position: absolute;
 }
 
 .adress3
 {
- margin-top:10vw;
+    font-size:20px;
+    color: white; 
+    font-weight: lighter;
+    margin-top:10vw;
+}
+
+.sslka4
+{
+    font-size:20px;
+    color: black; 
+    font-weight: lighter;
+    margin: 5vw 0 0 2vw;
+    text-decoration: none;
 }
 
