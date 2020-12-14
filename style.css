@@ -1,4 +1,4 @@
-.color1
+.subtitle
 {
     margin: 0 50vw 0;
     color: white;
@@ -9,13 +9,13 @@
 	height: 40px;
 	opacity: 0;
     visibility: hidden;
-	position: absolute;
+	position: fixed;
     top: 0;
     left: 0;
     width: 100vw;
     padding: 8px 0;
     background-color: #232527;
-	transition: all .3s ease;
+	transition: all .30s ease;
 }
 
 .container:hover .user-menu {
@@ -53,36 +53,36 @@ body
     position: absolute;
 }
 
-.imag2
+.Vector
 {
     margin: 10vw 0 15vw 55vw;
     position: absolute;
 }
 
-.bodyimag1
+.SpaceGray
 {
     margin: 2vw 0 15vw 60vw;
     position: absolute;
 }
 
-.imag1
+.Logo
 {
     margin: 0 0 0 10vw;
 }
 
-.adress1
+.toplinks
 {
     margin: -2vw 0 0 56vw;
 }
 
-.block1
+.mainhead
 {
     color:#66CDAA; 
     font-size:50px; 
     font-weight: lighter;
     margin: 13vw 0 0 20vw;
 }
-.block2
+.toptext
 {
     font-size:15px; 
     font-weight: lighter;
@@ -108,26 +108,26 @@ body
     position: absolute;
 }
 
-.block4
+.subblock
 {
     font-size:27px;
     color: #66CDAA;
     margin: 27vw 0 0 0vw;
 }
 
-.g5
+.Group
 {
  color: #66CDAA;
 margin: 24.5vw 0 0   15.5vw;
 position: absolute;
 }
 
-.block5
+.blockmain
 {
 margin: 0 0 0 4vw;
 }
 
-.block3
+.blockmiddle
 {
  width: 100vw;
  margin: 10vw 0 0 0 ;
@@ -135,7 +135,7 @@ margin: 0 0 0 4vw;
 background: #66CDAA;
 }
 
-.text6
+.middlehead
 {
     font-size: 34px;
     margin: 6vw 0 0 37vw;
@@ -143,53 +143,53 @@ background: #66CDAA;
     position: absolute;
 }
 
-.imag3
+.photo
 {
     margin: 4vw 0 0 -8vw;
 }
 
-.text7
+.textmiddleone
 {
     font-size:17px; 
     font-weight: 50;
     margin: -10vw 0 0 -3vw;  
 }
 
-.imag4
+.database
 {
     margin: 4vw 0 0 35vw;
 }
 
-.text8
+.textmiddletwo
 {
     font-size:17px; 
     font-weight: 50;
     margin: -10vw 0 0 -18vw;  
 }
 
-.imag5
+.trash
 {
     margin: 4vw 0 0 -8vw;
 }
 
-.text9
+.textmiddlethree
 {
     font-size:17px; 
     font-weight: 50;
     margin: -10vw 0 0 -3vw;  
 }
 
-.imag6
+.Also
 {
     margin: 7vw 0 0 18vw;
 }
 
-.imag7
+.bottomVector
 {
     margin: 18vw 0 0 69vw;
 }
 
-.zagllast
+.bottomhead
 {
     color:#66CDAA; 
     font-size:50px; 
@@ -197,7 +197,7 @@ background: #66CDAA;
     margin: -4.5vw 0 0 35vw;
 }
 
-.text10
+.bottomtext
 {
     font-size:22px; 
     font-weight: 300;
@@ -205,18 +205,18 @@ background: #66CDAA;
     margin:0vw 0 0 10vw;
 }
 
-.button1
+.Button
 {
     margin:5vw 0 0 43vw;
 }
 
-.podval
+.footerblock
 {
     background: #66CDAA;
     height: 10vw;
 }
 
-.sslka2
+.linktwo
 {
     font-size:20px;
     color: white; 
@@ -225,14 +225,14 @@ background: #66CDAA;
     text-decoration: none;
 }
 
-.adress2
+.bottomlinks
 {
     padding-top: 1vw;
     margin: 0 0 0 56vw;
     position: absolute;
 }
 
-.adress3
+.Copyright
 {
     font-size:20px;
     color: white; 
@@ -240,7 +240,7 @@ background: #66CDAA;
     margin-top:10vw;
 }
 
-.sslka4
+.linkone
 {
     font-size:20px;
     color: black; 
