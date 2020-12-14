@@ -1,0 +1,251 @@
+.subtitle
+{
+    margin: 0 50vw 0;
+    color: white;
+}
+
+.user-menu
+{
+	height: 40px;
+	opacity: 0;
+    visibility: hidden;
+	position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    padding: 8px 0;
+    background-color: #232527;
+	transition: all .30s ease;
+}
+
+.container:hover .user-menu {
+    visibility: visible;
+    opacity: 1;
+    transform: translateY(-5px);
+}
+
+body
+{ 
+    width: 100vw;
+    margin: 0;
+    background: white;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    min-height: 100vh;
+}
+
+.toplinkone
+{
+    margin: 0 2vw 0 0;
+    color:#66CDAA; font-size:20px; font-weight: lighter;
+    text-decoration: none;
+}
+
+.toplinkthree
+{
+    margin: 0 2vw 0 0;
+    text-decoration: none;
+}
+
+.buk1
+{
+    margin: 0 0 0 11vw;
+    position: absolute;
+}
+
+.Vector
+{
+    margin: 10vw 0 15vw 55vw;
+    position: absolute;
+}
+
+.SpaceGray
+{
+    margin: 2vw 0 15vw 60vw;
+    position: absolute;
+}
+
+.Logo
+{
+    margin: 0 0 0 10vw;
+}
+
+.toplinks
+{
+    margin: -2vw 0 0 56vw;
+}
+
+.mainhead
+{
+    color:#66CDAA; 
+    font-size:50px; 
+    font-weight: lighter;
+    margin: 13vw 0 0 20vw;
+}
+.toptext
+{
+    font-size:15px; 
+    font-weight: lighter;
+    margin: 3vw 0 0 20vw;
+}
+
+.userpic
+{
+    font-size:30px
+    height: 5vw;
+    color: white;
+}
+
+.button
+{
+    margin: 4vw 0 0 20vw; 
+    position: absolute;
+}
+
+.arrow
+{
+    margin: 14vw 0 0 53vw; 
+    position: absolute;
+}
+
+.subblock
+{
+    font-size:27px;
+    color: #66CDAA;
+    margin: 27vw 0 0 0vw;
+}
+
+.Group
+{
+ color: #66CDAA;
+margin: 24.5vw 0 0   15.5vw;
+position: absolute;
+}
+
+.blockmain
+{
+margin: 0 0 0 4vw;
+}
+
+.blockmiddle
+{
+ width: 100vw;
+ margin: 10vw 0 0 0 ;
+ height: 60vw;
+background: #66CDAA;
+}
+
+.middlehead
+{
+    font-size: 34px;
+    margin: 6vw 0 0 37vw;
+    color: white;
+    position: absolute;
+}
+
+.photo
+{
+    margin: 4vw 0 0 -8vw;
+}
+
+.textmiddleone
+{
+    font-size:17px; 
+    font-weight: 50;
+    margin: -10vw 0 0 -3vw;  
+}
+
+.database
+{
+    margin: 4vw 0 0 35vw;
+}
+
+.textmiddletwo
+{
+    font-size:17px; 
+    font-weight: 50;
+    margin: -10vw 0 0 -18vw;  
+}
+
+.trash
+{
+    margin: 4vw 0 0 -8vw;
+}
+
+.textmiddlethree
+{
+    font-size:17px; 
+    font-weight: 50;
+    margin: -10vw 0 0 -3vw;  
+}
+
+.Also
+{
+    margin: 7vw 0 0 18vw;
+}
+
+.bottomVector
+{
+    margin: 18vw 0 0 69vw;
+}
+
+.bottomhead
+{
+    color:#66CDAA; 
+    font-size:50px; 
+    font-weight: lighter;
+    margin: -4.5vw 0 0 35vw;
+}
+
+.bottomtext
+{
+    font-size:22px; 
+    font-weight: 300;
+    color: black;
+    margin:0vw 0 0 10vw;
+}
+
+.Button
+{
+    margin:5vw 0 0 43vw;
+}
+
+.footerblock
+{
+    background: #66CDAA;
+    height: 10vw;
+}
+
+.linktwo
+{
+    font-size:20px;
+    color: white; 
+    font-weight: lighter;
+    margin: 5vw 0 0 2vw;
+    text-decoration: none;
+}
+
+.bottomlinks
+{
+    padding-top: 1vw;
+    margin: 0 0 0 56vw;
+    position: absolute;
+}
+
+.Copyright
+{
+    font-size:20px;
+    color: white; 
+    font-weight: lighter;
+    margin-top:10vw;
+}
+
+.linkone
+{
+    font-size:20px;
+    color: black; 
+    font-weight: lighter;
+    margin: 5vw 0 0 2vw;
+    text-decoration: none;
+}
+
