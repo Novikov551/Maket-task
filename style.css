@@ -34,24 +34,19 @@ body
     min-height: 100vh;
 }
 
-.sslka1
+.toplinkone
 {
     margin: 0 2vw 0 0;
     color:#66CDAA; font-size:20px; font-weight: lighter;
     text-decoration: none;
 }
 
-.sslka3
+.toplinkthree
 {
     margin: 0 2vw 0 0;
     text-decoration: none;
 }
 
-.buk1
-{
-    margin: 0 0 0 11vw;
-    position: absolute;
-}
 
 .Vector
 {
